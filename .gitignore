@@ -95,3 +95,9 @@ ENV/
 .DS_Store
 
 samples/outreach/blogs/segmentation_blogpost/carvana-image-masking-challenge/
+
+# for special folder and file
+research/object_detection/.ipynb_checkpoints/
+research/object_detection/inference_graph/
+research/object_detection/training/
+research/object_detection/images/
