@@ -102,3 +102,4 @@ research/object_detection/inference_graph/
 research/object_detection/training/
 research/object_detection/images/
 research/object_detection/training_data/
+research/object_detection/eval/
